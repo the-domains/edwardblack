@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.5205797
+color:
+  saturation: 1
+  brandStrength: 0.3091383
+  lightness: 0
+  rhythmicContrast: 0.7975295
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: 'Edwardblack '
